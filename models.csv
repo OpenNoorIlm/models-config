@@ -1,2 +1,3 @@
-name,url,parameters,date-created,date-last-updated,base-model,gguf,transformers
-OpenNoorIlm/Noor-ul-ilm-7B-Qwen-15-3-2026,https://huggingface.co/OpenNoorIlm/Noor-ul-ilm-7B-Qwen-15-3-2026,7B,15-03-2026,19-03-2026,Qwen2.5-7B,False,True
+name,url,parameters,date-created,date-last-updated,base-model,gguf,transformers,dataset-name,dataset-url,dataset-last-updated
+OpenNoorIlm/Noor-ul-ilm-7B-Qwen-15-3-2026,https://huggingface.co/OpenNoorIlm/Noor-ul-ilm-7B-Qwen-15-3-2026,7B,15-03-2026,19-03-2026,Qwen2.5-7B,False,True,
+OpenNoorIlm/Noor-Ul-Ilm-1.0-Qwen2.5-7B-training-dataset-15-03-2026,https://huggingface.co/datasets/OpenNoorIlm/Noor-Ul-Ilm-1.0-Qwen2.5-7B-training-dataset-15-03-2026,5 days ago
